@@ -12,4 +12,4 @@
 * 1 - cd frontend
 * 2 - npm install
 # Remove reinitialized existing git repository
-*rm -rf .git
+* rm -rf .git
